@@ -9,7 +9,7 @@ def g(choice):
         choice=choice-1
     return result
 print("How many codes to be genrated ?")
-number = input("10")
+number = input("15")
 print("Amazon")
 n = int(number)
 n = int(number)
@@ -23,7 +23,6 @@ else:
     print("u have typed wrong type like this Amazon")
 
 
-time.sleep(2);
-
+time.sleep(2)
 
 
